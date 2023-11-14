@@ -1,5 +1,5 @@
 # Define the virtual environment name
-VENV_NAME?=venv
+VENV_NAME?=cd
 
 # Define the python version
 PYTHON_VERSION?=3.9.7
